@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22c6205c8d65bee4982025ce82a6a072, type: 3}
+  m_Name: Tank
+  m_EditorClassIdentifier: 
+  className: Tank
+  hpPerLevel: e802000058030000d80300006c04000015050000d8050000b9060000bb070000e4080000390a0000
+  starterSkills:
+  - {fileID: 11400000, guid: cadc4bfa6bf23ec4189142271d69b6e3, type: 2}
+  starterWeapon: {fileID: 11400000, guid: 25011dec4658ece48bbfa38aab7e15fe, type: 2}
+  starterOffhand: {fileID: 0}
+  stats:
+    attack: 50
+    accuracy: 0
+    crit: 0
+    armour: 0
+    evasion: 0
+    magicPower: 0
+    magicalAccuracy: 0
+    magicResist: 0
+    spellResist: 0
+    spellPenetration: 0
+    attackSpeed: 1
+    castSpeed: 1
+    attackModifier: 1
+    magicPowerModifier: 1

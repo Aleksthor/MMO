@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45627955e31c147428e0974f6285dc63, type: 3}
+  m_Name: IceSheet
+  m_EditorClassIdentifier: 
+  skillPower: 50
+  minPhysical: 0
+  maxPhysical: 0
+  skillLevel: 5
+  isPhysical: 0
+  isCasting: 1
+  castSpeed: 2
+  cooldown: 10
+  icon: {fileID: 21300000, guid: 2bccd332882fcd14b9e4c377e432c587, type: 3}
+  iconColor: {r: 1, g: 1, b: 1, a: 1}
+  manaCost: 15
+  range: 25
+  autoAttack: 0
+  cc: 0
+  ccDuration: 0
+  noDamage: 0

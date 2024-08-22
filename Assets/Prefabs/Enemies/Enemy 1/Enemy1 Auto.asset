@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45627955e31c147428e0974f6285dc63, type: 3}
+  m_Name: Enemy1 Auto
+  m_EditorClassIdentifier: 
+  skillPower: 0
+  minPhysical: 1
+  maxPhysical: 10
+  skillLevel: 1
+  isPhysical: 1
+  isCasting: 0
+  castSpeed: 0
+  cooldown: 0
+  icon: {fileID: 0}
+  iconColor: {r: 1, g: 1, b: 1, a: 1}
+  manaCost: 0
+  range: 3
+  autoAttack: 1
+  cc: 0
+  ccDuration: 0
+  noDamage: 0

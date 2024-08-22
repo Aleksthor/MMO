@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22c6205c8d65bee4982025ce82a6a072, type: 3}
+  m_Name: Summoner
+  m_EditorClassIdentifier: 
+  className: Summoner
+  hpPerLevel: c2010000f401000026020000580200008a020000bc020000ee020000200300005203000084030000
+  starterSkills:
+  - {fileID: 11400000, guid: d8ae7af9d98c52640a3eedfada285d3a, type: 2}
+  starterWeapon: {fileID: 11400000, guid: 169db11567ebefa428cf2eb1e79bfed5, type: 2}
+  starterOffhand: {fileID: 0}
+  stats:
+    attack: 0
+    accuracy: 0
+    crit: 0
+    armour: 0
+    evasion: 0
+    magicPower: 55
+    magicalAccuracy: 0
+    magicResist: 0
+    spellResist: 0
+    spellPenetration: 0
+    attackSpeed: 1
+    castSpeed: 1
+    attackModifier: 1
+    magicPowerModifier: 1

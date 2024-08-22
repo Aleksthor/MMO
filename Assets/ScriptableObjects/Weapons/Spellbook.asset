@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7da17b166883cd4294c80df9c282c87, type: 3}
+  m_Name: Spellbook
+  m_EditorClassIdentifier: 
+  itemName: Spellbook 1
+  rarity: 0
+  itemId: 4
+  type: 4
+  stats:
+    attack: 0
+    accuracy: 0
+    crit: 0
+    armour: 0
+    evasion: 0
+    magicPower: 80
+    magicalAccuracy: 150
+    magicResist: 0
+    spellResist: 0
+    spellPenetration: 0
+    attackSpeed: 1
+    castSpeed: 1
+    attackModifier: 1
+    magicPowerModifier: 1

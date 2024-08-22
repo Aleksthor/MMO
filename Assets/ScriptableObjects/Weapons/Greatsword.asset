@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7da17b166883cd4294c80df9c282c87, type: 3}
+  m_Name: Greatsword
+  m_EditorClassIdentifier: 
+  itemName: Greatsword
+  rarity: 0
+  itemId: 2
+  type: 0
+  stats:
+    attack: 75
+    accuracy: 150
+    crit: 30
+    armour: 0
+    evasion: 0
+    magicPower: 0
+    magicalAccuracy: 0
+    magicResist: 0
+    spellResist: 0
+    spellPenetration: 0
+    attackSpeed: 0.8
+    castSpeed: 1
+    attackModifier: 1
+    magicPowerModifier: 1
